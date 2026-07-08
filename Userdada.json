@@ -15,7 +15,7 @@
         "device_id": "d626db5179d50426",
         "key": "your1122",
         "expirydate": "10-07-2026",
-        "Allowoffline": false
+        "Allowonline": false
     },
     {
         "device_id": "ef92b31aa2040546",
