@@ -11,16 +11,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-    {
-        "device_id": "d626db5179d50426",
-        "key": "your1122",
-        "expirydate": "10-07-2026",
-        "Allowoffline": true
-    },
-    {
+       {
         "device_id": "abc0875b617e589b",
         "key": "your1122",
-        "expirydate": "10-07-2026",
-        "Allowoffline": true
-    },
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
 ]
