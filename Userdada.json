@@ -34,5 +34,11 @@
         "key": "22.590233429574887",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d626db5179d50426",
+        "key": "B566-FFA7-FB18-4610",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
     }
 ]
