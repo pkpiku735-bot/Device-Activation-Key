@@ -40,5 +40,11 @@
         "key": "B566-FFA7-FB18-4610",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "86f4b60393530697",
+        "key": "B566-FFA7-FB18-4610",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
     }
 ]
